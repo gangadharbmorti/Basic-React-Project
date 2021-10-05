@@ -1,0 +1,17 @@
+.search-bar {
+width: 100%;
+height: auto;
+margin: 0 auto;
+text-align: center;
+background-color: aquamarine;
+}
+
+.search-bar label{
+    font-size: 1.5rem;
+    padding: 20px;
+}
+.search-bar input{
+    margin: 50px 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
